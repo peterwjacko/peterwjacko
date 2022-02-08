@@ -6,9 +6,9 @@ I'm always learning, and my focus + expertise is:
   - 🌐 GIS
   - 🐍 Python
   - 🚁 drones
+  - 🛩 lidar
   - 🛰 remote sensing
   - 🤖 machine learning
 
 You can find me at:
-  - 👨‍🔬 ResearchGate: peter_jackson29
-  - 🐥 Twitter: @realpeterjacko
+  - 🐥 Twitter: @peterwjacko
