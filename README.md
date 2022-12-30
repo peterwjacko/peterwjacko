@@ -1,14 +1,14 @@
 G'Day world I’m @peterwjacko, AKA Peter Jackson.
-I have a background in ecology, geospatial science, and remote sensing. 
-My aim and overall motivation is to use technology to achieve better biodiveristy conservation outcomes.
+The place where ecology and geospatial cross.
 
 I'm always learning, and my focus + expertise is:
-  - 🌐 GIS
+  - 🌏 Geospatial
   - 🐍 Python
-  - 🚁 drones
-  - 🛩 lidar
-  - 🛰 remote sensing
-  - 🤖 machine learning
+  - 🚁 Uncrewed Aerial Systems
+  - ✳️ Lidar
+  - 🛰️ Remote sensing
+  - 🤖 Machine learning
 
 You can find me at:
   - 🐥 Twitter: @peterwjacko
+  - 🌐 Web: peterwjacko.com
